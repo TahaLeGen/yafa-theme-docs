@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyafa_theme_docs=self.webpackChunkyafa_theme_docs||[]).push([[230],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

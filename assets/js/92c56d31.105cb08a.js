@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyafa_theme_docs=self.webpackChunkyafa_theme_docs||[]).push([[3224],{4360:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/yafa-theme-docs/blog/tags/hello","allTagsPath":"/yafa-theme-docs/blog/tags","count":2,"unlisted":false}')}}]);
